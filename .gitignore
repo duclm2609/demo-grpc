@@ -1,3 +1,10 @@
 *.iml
 
-**/target
+bank/target
+bank/*.iml
+
+core/target
+core/*.iml
+
+interface/target
+interface/*.iml
