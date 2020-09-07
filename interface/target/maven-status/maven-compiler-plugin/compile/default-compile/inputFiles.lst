@@ -1,0 +1,9 @@
+/Users/duclm/Work/local/microservice-demo-grpc/interface/target/generated-sources/protobuf/java/com/example/demo/lib/HelloRequest.java
+/Users/duclm/Work/local/microservice-demo-grpc/interface/target/generated-sources/protobuf/java/com/example/demo/lib/ErrorSwitchChannelOrBuilder.java
+/Users/duclm/Work/local/microservice-demo-grpc/interface/target/generated-sources/protobuf/java/com/example/demo/lib/UserProto.java
+/Users/duclm/Work/local/microservice-demo-grpc/interface/target/generated-sources/protobuf/grpc-java/com/example/demo/lib/UserServiceGrpc.java
+/Users/duclm/Work/local/microservice-demo-grpc/interface/target/generated-sources/protobuf/java/com/example/demo/lib/HelloReply.java
+/Users/duclm/Work/local/microservice-demo-grpc/interface/target/generated-sources/protobuf/java/com/example/demo/lib/MultiAcquirerError.java
+/Users/duclm/Work/local/microservice-demo-grpc/interface/target/generated-sources/protobuf/java/com/example/demo/lib/ErrorSwitchChannel.java
+/Users/duclm/Work/local/microservice-demo-grpc/interface/target/generated-sources/protobuf/java/com/example/demo/lib/HelloRequestOrBuilder.java
+/Users/duclm/Work/local/microservice-demo-grpc/interface/target/generated-sources/protobuf/java/com/example/demo/lib/HelloReplyOrBuilder.java
